@@ -1,0 +1,6 @@
+{
+  "name": "Asia Fitness Club",
+  "description": "El templo del entrenamiento industrial en Villa Ballester. Reservá tu turno, inscribite en nuestras disciplinas y conocé a Cordones, el supervisor felino.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
